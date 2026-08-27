@@ -1,25 +1,17 @@
 EXTM3U
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",SAITAMA 1
+#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Bệu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.flv
+https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",SAITAMA 2
+#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Péo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/69f42e961f739deff81510c0_1080p.m3u8
+https://live2.zktsva.app/live/303098.m3u8
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",CRIS 1
+#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Tốc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.flv
+https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",CRIS 2
+#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Gáy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/69aa9525f5ec459ae275b43f_1080p.m3u8
-
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",NGƯỜI KIẾN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.flv
-
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",NGƯỜI KIẾN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://playback.livetl001.com/live/6a439a7fb89dded67b208b87_1080p.m3u8
+https://live2.zktsva.app/live/294335.m3u8
