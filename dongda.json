@@ -19,6 +19,49 @@
     {
       "name": "GaVangTV",
       "channels": [
+		  {
+          "name": "Gà Siêu Son",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Son",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Son",
+                          "url": "https://live2.zktsva.app/live/306290.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
         {
           "name": "Gà Siêu Tốc",
           "image": {
@@ -93,49 +136,6 @@
                         {
                           "name": "Gà Siêu Gáy",
                           "url": "https://live2.zktsva.app/live/294335.m3u8",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Gà Siêu Son",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Gà Siêu Son",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Gà Siêu Son",
-                          "url": "https://live2.zktsva.app/live/306290.m3u8",
                           "type": "hls",
                           "default": true
                         }
