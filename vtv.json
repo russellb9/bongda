@@ -328,6 +328,319 @@
         "url": ""
       },
       "enable_detail": false
+    },
+	{
+      "name": "VTV Plus",
+      "channels": [
+        {
+          "name": "VTV1",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV1",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV1",
+                          "url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV2",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV2",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV2",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV3",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV3",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV3",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV5",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV5",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV5",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV6",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV6",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV6",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV9",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV9",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV9",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "VTV10",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "VTV10",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "VTV10",
+                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "slider",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": true,
+        "url": ""
+      },
+      "enable_detail": false
     }
   ]
 }
