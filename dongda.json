@@ -190,7 +190,9 @@
                           "name": "Gà Siêu Bệu",
                           "url": "https://live2.zktsva.app/live/289650.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -233,7 +235,9 @@
                           "name": "Gà Siêu Péo",
                           "url": "https://live2.zktsva.app/live/303098.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -276,7 +280,9 @@
                           "name": "Gà Ô Long",
                           "url": "https://live2.zktsva.app/live/307240.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
