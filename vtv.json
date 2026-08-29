@@ -51,7 +51,9 @@
                           "name": "VTV1",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -94,7 +96,9 @@
                           "name": "VTV2",
                           "url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -137,7 +141,9 @@
                           "name": "VTV3",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -180,7 +186,9 @@
                           "name": "VTV5",
                           "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -223,7 +231,9 @@
                           "name": "VTV6",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -266,7 +276,9 @@
                           "name": "VTV9",
                           "url": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -309,7 +321,9 @@
                           "name": "VTV10",
                           "url": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -364,7 +378,9 @@
                           "name": "VTV1",
                           "url": "https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -407,7 +423,9 @@
                           "name": "VTV3",
                           "url": "https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -450,7 +468,9 @@
                           "name": "VTV5",
                           "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -493,7 +513,9 @@
                           "name": "VTV6",
                           "url": "https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -536,7 +558,9 @@
                           "name": "VTV9",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -591,7 +615,9 @@
                           "name": "VTV1",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -634,7 +660,9 @@
                           "name": "VTV2",
                           "url": "https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -677,7 +705,9 @@
                           "name": "VTV3",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -720,7 +750,9 @@
                           "name": "VTV5",
                           "url": "https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -763,7 +795,9 @@
                           "name": "VTV6",
                           "url": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -806,7 +840,9 @@
                           "name": "VTV9",
                           "url": "https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -849,7 +885,9 @@
                           "name": "VTV10",
                           "url": "https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
