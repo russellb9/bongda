@@ -2,7 +2,7 @@
   "name": "GaVangTV",
   "color": "#FF6B35",
   "org_metadata": {
-    "image": "https://gavang33.uk/assets/images/logo_gavangtv.png",
+    "image": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
     "title": "Hệ thống xem sport Cơ bản nhất",
     "description": ""
   },
@@ -10,7 +10,7 @@
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://gavang33.uk/assets/images/logo_gavangtv.png",
+    "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
     "height": 101,
     "width": 155
   },
