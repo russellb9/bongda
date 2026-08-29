@@ -1,75 +1,19 @@
 {
   "name": "VTV Go",
   "color": "#FF6B35",
-  "org_metadata": {
-    "image": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260811/2026081113/pp6XQtmDMA-Thumb-Content-HUB_ONE-VTV-Sport_400x400.webp",
-    "title": "Hệ thống xem các kênh TV Cơ bản nhất",
-    "description": ""
-  },
-  "description": "",
-  "image": {
-    "display": "contain",
-    "shape": "square",
-    "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260811/2026081113/pp6XQtmDMA-Thumb-Content-HUB_ONE-VTV-Sport_400x400.webp",
-    "height": 101,
-    "width": 155
-  },
-  "grid_number": 1,
+  "image": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260811/2026081113/pp6XQtmDMA-Thumb-Content-HUB_ONE-VTV-Sport_400x400.webp",
   "groups": [
     {
       "name": "Kênh VTV",
+      "display": "slider",
       "channels": [
         {
           "name": "VTV1 HD",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "VTV1 HD",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "VTV1 HD",
-                          "url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
+          "image": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+          "stream_url": "https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+          "stream_type": "hls"
         }
-      ],
-      "display": "slider",
-      "grid_columns": null,
-      "remote_data": {
-        "enable": true,
-        "url": ""
-      },
-      "enable_detail": false
+      ]
     }
   ]
 }
