@@ -330,7 +330,7 @@
       "enable_detail": false
     },
 	{
-      "name": "VTV Prime",
+      "name": "VTV Plus",
       "channels": [
         {
           "name": "VTV1",
@@ -557,7 +557,7 @@
       "enable_detail": false
     },
 	{
-      "name": "VTV Go",
+      "name": "VTV Prime",
       "channels": [
         {
           "name": "VTV1",
