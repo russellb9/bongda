@@ -1,6 +1,4 @@
-EXTM3U
-playlist-name="Chuối Chiên TV"
-playlist-logo="https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg"
+#EXTM3U playlist-name="Chuối Chiên TV" playlist-logo="https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg"
 
 #EXTINF:0 tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133417_d0c889f0.png" group-title="Chuối Chiên TV" , A Ngao
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
