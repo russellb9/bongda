@@ -335,12 +335,9 @@
                       "stream_links": [
                         {
                           "name": "Chuối Chao",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
                           "type": "hls",
-                          "default": true,
-							"headers": {
-								"Referer": "https://live.chuoichien.tv/"
-							}
+                          "default": true
 						}
                       ],
                       "remote_data": null
@@ -381,12 +378,9 @@
                       "stream_links": [
                         {
                           "name": "Chuối Lá",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
                           "type": "hls",
-                          "default": true,
-							"headers": {
-								"Referer": "https://live.chuoichien.tv/"
-							}
+                          "default": true
                         }
                       ],
                       "remote_data": null
@@ -427,12 +421,9 @@
                       "stream_links": [
                         {
                           "name": "Chuối Nhỏ",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
                           "type": "hls",
-                          "default": true,
-							"headers": {
-								"Referer": "https://live.chuoichien.tv/"
-							}
+                          "default": true
                         }
                       ],
                       "remote_data": null
@@ -473,12 +464,9 @@
                       "stream_links": [
                         {
                           "name": "Trốc Tru",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
                           "type": "hls",
-                          "default": true,
-							"headers": {
-								"Referer": "https://live.chuoichien.tv/"
-							}
+                          "default": true
                         }
                       ],
                       "remote_data": null
