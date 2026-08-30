@@ -52,8 +52,8 @@
                           "url": "https://live2.zktsva.app/live/306290.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+				"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+				"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -98,8 +98,8 @@
                           "type": "hls",
                           "default": true,
 							"headers": {
-								"User-Agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-								"http-user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+				"User-Agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+				"http-user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
 							}
                         }
                       ],
@@ -145,8 +145,8 @@
                           "type": "hls",
                           "default": true,
 							"headers": {
-								"User-Agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-								"http-user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+				"User-Agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+				"http-user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
 							}
                         }
                       ],
@@ -191,8 +191,8 @@
                           "url": "https://live2.zktsva.app/live/289650.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+				"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+				"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -236,8 +236,8 @@
                           "url": "https://live2.zktsva.app/live/303098.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+			"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+			"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
@@ -281,192 +281,8 @@
                           "url": "https://live2.zktsva.app/live/432017.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							 "http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "display": "slider",
-      "grid_columns": null,
-      "remote_data": {
-        "enable": true,
-        "url": ""
-      },
-      "enable_detail": false
-    },
-	  {
-      "name": "Chuối Chiên TV",
-      "channels": [
-        {
-          "name": "Chuối Chao",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Chuối Chao",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Chuối Chao",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
-                          "type": "hls",
-                          "default": true
-						}
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Chuối Lá",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Chuối Lá",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Chuối Lá",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Chuối Nhỏ",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Chuối Nhỏ",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Chuối Nhỏ",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Trốc Tru",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Trốc Tru",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Trốc Tru",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|referrer=https://live.chuoichien.tv/",
-                          "type": "hls",
-                          "default": true
+			"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
+			"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
                         }
                       ],
                       "remote_data": null
