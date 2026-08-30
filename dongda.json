@@ -301,6 +301,276 @@
         "url": ""
       },
       "enable_detail": false
+    },
+	  {
+      "name": "GaVangTV",
+      "channels": [
+        {
+          "name": "Gà Siêu Tốc",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Tốc",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Tốc",
+                          "url": "https://live2.zktsva.app/live/307240.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Gà Siêu Gáy",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Gáy",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Gáy",
+                          "url": "https://live2.zktsva.app/live/294335.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Gà Siêu Son",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Son",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Son",
+                          "url": "https://live2.zktsva.app/live/306290.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Gà Siêu Bệu",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Bệu",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Bệu",
+                          "url": "https://live2.zktsva.app/live/289650.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Gà Siêu Péo",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Siêu Péo",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Siêu Péo",
+                          "url": "https://live2.zktsva.app/live/303098.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+		{
+          "name": "Gà Ô Long",
+          "image": {
+            "display": "cover",
+            "shape": "square",
+            "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
+            "height": 101,
+            "width": 155
+          },
+          "type": "single",
+          "display": "text-below",
+          "sources": [
+            {
+              "name": "",
+              "contents": [
+                {
+                  "name": "",
+                  "streams": [
+                    {
+                      "name": "Gà Ô Long",
+                      "image": {
+                        "display": "contain",
+                        "shape": "square",
+                        "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
+                        "height": 101,
+                        "width": 155
+                      },
+                      "stream_links": [
+                        {
+                          "name": "Gà Ô Long",
+                          "url": "https://live2.zktsva.app/live/307240.m3u8",
+                          "type": "hls",
+                          "default": true
+                        }
+                      ],
+                      "remote_data": null
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "display": "slider",
+      "grid_columns": null,
+      "remote_data": {
+        "enable": true,
+        "url": ""
+      },
+      "enable_detail": false
     }
   ]
 }
