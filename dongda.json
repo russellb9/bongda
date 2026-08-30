@@ -336,12 +336,12 @@
                         {
                           "name": "Chuối Chao",
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
-							"http_referrer": "https://live.chuoichien.tv/", 
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
-                        }
+							"headers": {
+								"Referer": "https://live.chuoichien.tv/"
+							}
+						}
                       ],
                       "remote_data": null
                     }
@@ -382,11 +382,11 @@
                         {
                           "name": "Chuối Lá",
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
-							"http_referrer": "https://live.chuoichien.tv/", 
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+							"headers": {
+								"Referer": "https://live.chuoichien.tv/"
+							}
                         }
                       ],
                       "remote_data": null
@@ -427,12 +427,12 @@
                       "stream_links": [
                         {
                           "name": "Chuối Nhỏ",
-							"http_referrer": "https://live.chuoichien.tv/", 
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+							"headers": {
+								"Referer": "https://live.chuoichien.tv/"
+							}
                         }
                       ],
                       "remote_data": null
@@ -473,12 +473,12 @@
                       "stream_links": [
                         {
                           "name": "Trốc Tru",
-							"http_referrer": "https://live.chuoichien.tv/", 
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "type": "hls",
                           "default": true,
-							"user_agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36",
-							"http_user-agent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36"
+							"headers": {
+								"Referer": "https://live.chuoichien.tv/"
+							}
                         }
                       ],
                       "remote_data": null
