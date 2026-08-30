@@ -303,14 +303,14 @@
       "enable_detail": false
     },
 	  {
-      "name": "GaVangTV",
+      "name": "Chuối Chiên TV",
       "channels": [
         {
-          "name": "Gà Siêu Tốc",
+          "name": "Chuối Chao",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
             "height": 101,
             "width": 155
           },
@@ -324,18 +324,18 @@
                   "name": "",
                   "streams": [
                     {
-                      "name": "Gà Siêu Tốc",
+                      "name": "Chuối Chao",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
                           "name": "Gà Siêu Tốc",
-                          "url": "https://live2.zktsva.app/live/307240.m3u8",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -349,11 +349,11 @@
           ]
         },
 		{
-          "name": "Gà Siêu Gáy",
+          "name": "Chuối Lá",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
             "height": 101,
             "width": 155
           },
@@ -367,18 +367,18 @@
                   "name": "",
                   "streams": [
                     {
-                      "name": "Gà Siêu Gáy",
+                      "name": "Chuối Lá",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "name": "Gà Siêu Gáy",
-                          "url": "https://live2.zktsva.app/live/294335.m3u8",
+                          "name": "Chuối Lá",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -392,11 +392,11 @@
           ]
         },
 		{
-          "name": "Gà Siêu Son",
+          "name": "Chuối Nhỏ",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
             "height": 101,
             "width": 155
           },
@@ -410,18 +410,18 @@
                   "name": "",
                   "streams": [
                     {
-                      "name": "Gà Siêu Son",
+                      "name": "Chuối Nhỏ",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "name": "Gà Siêu Son",
-                          "url": "https://live2.zktsva.app/live/306290.m3u8",
+                          "name": "Chuối Nhỏ",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8",
                           "type": "hls",
                           "default": true
                         }
@@ -435,11 +435,11 @@
           ]
         },
 		{
-          "name": "Gà Siêu Bệu",
+          "name": "Trốc Tru",
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+            "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
             "height": 101,
             "width": 155
           },
@@ -453,104 +453,18 @@
                   "name": "",
                   "streams": [
                     {
-                      "name": "Gà Siêu Bệu",
+                      "name": "Trốc Tru",
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+                        "url": "https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",
                         "height": 101,
                         "width": 155
                       },
                       "stream_links": [
                         {
-                          "name": "Gà Siêu Bệu",
-                          "url": "https://live2.zktsva.app/live/289650.m3u8",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Gà Siêu Péo",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Gà Siêu Péo",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Gà Siêu Péo",
-                          "url": "https://live2.zktsva.app/live/303098.m3u8",
-                          "type": "hls",
-                          "default": true
-                        }
-                      ],
-                      "remote_data": null
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-		{
-          "name": "Gà Ô Long",
-          "image": {
-            "display": "cover",
-            "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
-            "height": 101,
-            "width": 155
-          },
-          "type": "single",
-          "display": "text-below",
-          "sources": [
-            {
-              "name": "",
-              "contents": [
-                {
-                  "name": "",
-                  "streams": [
-                    {
-                      "name": "Gà Ô Long",
-                      "image": {
-                        "display": "contain",
-                        "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
-                        "height": 101,
-                        "width": 155
-                      },
-                      "stream_links": [
-                        {
-                          "name": "Gà Ô Long",
-                          "url": "https://live2.zktsva.app/live/307240.m3u8",
+                          "name": "Trốc Tru",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "type": "hls",
                           "default": true
                         }
