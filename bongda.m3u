@@ -1,25 +1,25 @@
 EXTM3U
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Son
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",Gà Siêu Son
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Bệu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Péo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Tốc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Siêu Gáy
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",Gà Siêu Gáy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:0 group-title="GTV" tvg-logo="https://resources.fcbarcelona.pulselive.com/badges/club/50/BCN@x2.png",Gà Ô Long
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",Gà Siêu Bệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",Gà Siêu Tốc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:0 group-title="GTV" tvg-logo="https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",Gà Ô Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/432017.m3u8
