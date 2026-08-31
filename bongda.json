@@ -338,8 +338,8 @@
                           "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8",
                           "type": "hls",
                           "default": true,
-							"options": {
-								"http-referrer": "https://live.chuoichien.tv/"
+							"http": {
+								"referrer": "https://live.chuoichien.tv/"
 							}
 						}
                       ],
@@ -471,9 +471,12 @@
                       "stream_links": [
                         {
                           "name": "Trốc Tru",
-                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|http-referrer=https://live.chuoichien.tv/",
+                          "url": "https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8",
                           "type": "hls",
-                          "default": true
+                          "default": true,
+							"headers": {
+								"Referer": "https://live.chuoichien.tv"
+							}
                         }
                       ],
                       "remote_data": null
