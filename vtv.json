@@ -2,7 +2,7 @@
   "name": "VTV",
   "color": "#FF6B35",
   "org_metadata": {
-    "image": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260802/2026080217/oUnjiFOazK-Logo.webp",
+    "image": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/Logo.webp",
     "title": "Hệ thống xem các kênh TV Cơ bản nhất",
     "description": ""
   },
@@ -10,7 +10,7 @@
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/display-block/20260802/2026080217/oUnjiFOazK-Logo.webp",
+    "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/Logo.webp",
     "height": 101,
     "width": 155
   },
@@ -24,7 +24,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
             "height": 101,
             "width": 155
           },
@@ -42,7 +42,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -69,7 +69,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
             "height": 101,
             "width": 155
           },
@@ -87,7 +87,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -114,7 +114,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
             "height": 101,
             "width": 155
           },
@@ -132,7 +132,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -159,7 +159,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
             "height": 101,
             "width": 155
           },
@@ -177,7 +177,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -204,7 +204,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
             "height": 101,
             "width": 155
           },
@@ -222,7 +222,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -261,7 +261,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
             "height": 101,
             "width": 155
           },
@@ -279,7 +279,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -304,7 +304,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",
             "height": 101,
             "width": 155
           },
@@ -322,7 +322,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -347,7 +347,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
             "height": 101,
             "width": 155
           },
@@ -365,7 +365,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -390,7 +390,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
             "height": 101,
             "width": 155
           },
@@ -408,7 +408,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -433,7 +433,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
             "height": 101,
             "width": 155
           },
@@ -451,7 +451,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -476,7 +476,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
             "height": 101,
             "width": 155
           },
@@ -494,7 +494,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -519,7 +519,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",
             "height": 101,
             "width": 155
           },
@@ -537,7 +537,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -574,7 +574,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
             "height": 101,
             "width": 155
           },
@@ -592,7 +592,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5de59236-89a2-4387-8664-f2fc27608093.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -619,7 +619,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",
             "height": 101,
             "width": 155
           },
@@ -637,7 +637,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/5ac4a9fb-6da7-4785-aab5-ae85e471d869.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -662,7 +662,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
             "height": 101,
             "width": 155
           },
@@ -680,7 +680,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/292a3f4e-c6ee-4858-9c49-f61dde69a854.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -707,7 +707,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
             "height": 101,
             "width": 155
           },
@@ -725,7 +725,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/d84c3036-3cc4-4c45-911f-8d1c5025cd93.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -750,7 +750,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
             "height": 101,
             "width": 155
           },
@@ -768,7 +768,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260607/2026060709/cWXXGTRTIZ-VTV6-THUMBNAIL-KENHVTVgo-500x281.webp",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",
                         "height": 101,
                         "width": 155
                       },
@@ -795,7 +795,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
             "height": 101,
             "width": 155
           },
@@ -813,7 +813,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-images.vtvdigital.vn/images/20230626/7f951ab0-a128-44a9-84cd-ba8faf108ad3.jpg?width=500",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",
                         "height": 101,
                         "width": 155
                       },
@@ -838,7 +838,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",
             "height": 101,
             "width": 155
           },
@@ -856,7 +856,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260330/2026033009/1lmelwJ48A-VTV10-THUMBNAIL-KENH-VTVgo-480x270.webp",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",
                         "height": 101,
                         "width": 155
                       },
