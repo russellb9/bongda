@@ -2,7 +2,7 @@
   "name": "GaVangTV",
   "color": "#FF6B35",
   "org_metadata": {
-    "image": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+    "image": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
     "title": "Hệ thống xem sport Cơ bản nhất",
     "description": ""
   },
@@ -10,7 +10,7 @@
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+    "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
     "height": 101,
     "width": 155
   },
@@ -24,7 +24,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",
             "height": 101,
             "width": 155
           },
@@ -42,7 +42,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1784649818862-gr6fqgbhsx8.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",
                         "height": 101,
                         "width": 155
                       },
@@ -69,7 +69,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
             "height": 101,
             "width": 155
           },
@@ -87,7 +87,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1778587966582-rk2hcgz996a.jpg",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
                         "height": 101,
                         "width": 155
                       },
@@ -116,7 +116,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -134,7 +134,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1785246917752-jhzig7me0x.jpg",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
@@ -163,7 +163,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",
             "height": 101,
             "width": 155
           },
@@ -181,7 +181,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1778587936878-15cym0wmbia.jpg",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",
                         "height": 101,
                         "width": 155
                       },
@@ -208,7 +208,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",
             "height": 101,
             "width": 155
           },
@@ -226,7 +226,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1786292918433-g0dd0wz1ef5.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",
                         "height": 101,
                         "width": 155
                       },
@@ -253,7 +253,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",
             "height": 101,
             "width": 155
           },
@@ -271,7 +271,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://cdn.imgts.com/uploads/images/1784649950061-r08eodd42l.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",
                         "height": 101,
                         "width": 155
                       },
