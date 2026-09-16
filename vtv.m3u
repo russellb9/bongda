@@ -1,73 +1,73 @@
 EXTM3U
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",VTV10
+#EXTINF:0 tvg-id="vtv10hd" group-title="VTV Plus" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",Gà Siêu Son
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",Gà Siêu Son
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",Gà Siêu Gáy
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",Gà Siêu Gáy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",Gà Siêu Bệu
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",Gà Siêu Bệu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",Gà Siêu Péo
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",Gà Siêu Péo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/303098.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",Gà Siêu Tốc
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",Gà Siêu Tốc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:0 group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",Gà Ô Long
+#EXTINF:0 tvg-id="vtv6hd" group-title="GaVangTV" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",Gà Ô Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/432017.m3u8
