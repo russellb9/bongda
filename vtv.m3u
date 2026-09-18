@@ -24,19 +24,22 @@ https://freem3u.xyz/api/live/play.m3u8?vid=74
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 
 #EXTINF:0 tvg-id="onsportsplus" group-title="Tivi" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/ons.jpg",On Sports+
-#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 
 #EXTINF:0 tvg-id="onfootball" group-title="Tivi" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/onf.jpg",On Football
-#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 
 #EXTINF:0 tvg-id="onsportsnews" group-title="Tivi" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/onnew.webp",On Sports New
-#KODIPROP:inputstream=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10
 https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
