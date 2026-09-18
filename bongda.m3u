@@ -1,242 +1,242 @@
 #EXTM3U x-tvg-url="https://lichphatsong.io.vn/epg.xml"
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Son
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Son
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/306290.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Gáy
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Gáy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/294335.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Bệu
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Bệu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/289650.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Péo
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Péo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/303098.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Tốc
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Siêu Tốc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/307240.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Ô Long
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gv.jpg",Gà Ô Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/432017.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC1
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC2
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC3
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC4
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC5
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC6
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC7
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
 
-#EXTINF:0 tvg-id="htvthethaohd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC8
+#EXTINF:0 tvg-id="htvthethaohd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vsc.jpg",SVC8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 hhttps://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 1
 https://vips-livecdn.fptplay.net/live/media/event-01/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 2
 https://vips-livecdn.fptplay.net/live/media/event-02/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 3
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 3
 https://vips-livecdn.fptplay.net/live/media/event-03/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 4
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 4
 https://vips-livecdn.fptplay.net/live/media/event-04/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 5
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 5
 https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 2
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.jpg",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv2hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",VTV2
+#EXTINF:0 tvg-id="vtv2hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.jpg",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv2/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.jpg",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.webp",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.webp",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.jpg",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 
-#EXTINF:0 tvg-id="vtv10hd" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",VTV10
+#EXTINF:0 tvg-id="vtv10hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv10.webp",VTV10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv10/live247-hls-avc/index.m3u8
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 1
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 2
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 3
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 4
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 5
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 5
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 6
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 7
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 7
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 8
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 9
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 10
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3d73b3a9b89462ebf7911004ea3b3b9:2e547a81ff90aa02648cb9e3f79e7339
 https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 11
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
 
-#EXTINF:0 group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 12
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.png",VTVPrime 12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
 https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 
-#EXTINF:0 tvg-id="tv360plus1" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus1.png",TV360+1
+#EXTINF:0 tvg-id="tv360plus1" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus1.png",TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47404f622db3536c867b2545581aadb4:9fbdc12cfe74564fd4329baa6a6d1968
 https://vmttv.dpdns.org/tv360/?id=tv360-1
 
-#EXTINF:0 tvg-id="tv360plus2" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus2.png",TV360+2
+#EXTINF:0 tvg-id="tv360plus2" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus2.png",TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c24f672f7715433a83953e74ae564b1:10a63f9f2ccd81dfc4a05263c2fd1575
 https://vmttv.dpdns.org/tv360/?id=tv360-2
 
-#EXTINF:0 tvg-id="tv360plus3" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus3.png",TV360+3
+#EXTINF:0 tvg-id="tv360plus3" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus3.png",TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8405a15e96b35497bde131a29e7fb67e:adb30d908915cf14760880240961a5ed
 https://vmttv.dpdns.org/tv360/?id=tv360-3
 
-#EXTINF:0 tvg-id="tv360plus6" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus6.png",TV360+6
+#EXTINF:0 tvg-id="tv360plus6" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus6.png",TV360+6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b0f9e1892864641aa17f02b2e7b0b2d:6c06f96a6296d05442466d5b09e58192
 https://vmttv.dpdns.org/tv360/?id=tv360-6
 
-#EXTINF:0 tvg-id="tv360plus9" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus9.png",TV360+9
+#EXTINF:0 tvg-id="tv360plus9" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus9.png",TV360+9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-9
 
-#EXTINF:0 tvg-id="tv360plus10" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus10.png",TV360+10
+#EXTINF:0 tvg-id="tv360plus10" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus10.png",TV360+10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-10
 
-#EXTINF:0 tvg-id="tv360plus11" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus11.png",TV360+11
+#EXTINF:0 tvg-id="tv360plus11" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus11.png",TV360+11
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-11
 
-#EXTINF:0 tvg-id="tv360plus12" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus12.png",TV360+12
+#EXTINF:0 tvg-id="tv360plus12" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus12.png",TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6db5c5c963365f6fafa1a23b8a06bd67:1a0727fcea62de4e4471ebb0aaaec628
 https://vmttv.dpdns.org/tv360/?id=tv360-12
 
-#EXTINF:0 tvg-id="tv360plus15" group-title="sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus15.png",TV360+15
+#EXTINF:0 tvg-id="tv360plus15" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus15.png",TV360+15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
