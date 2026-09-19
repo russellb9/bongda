@@ -2,7 +2,7 @@
   "name": "GaVangTV",
   "color": "#FF6B35",
   "org_metadata": {
-    "image": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
+    "image": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
     "title": "Hệ thống xem sport Cơ bản nhất",
     "description": ""
   },
@@ -10,7 +10,7 @@
   "image": {
     "display": "contain",
     "shape": "square",
-    "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
+    "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
     "height": 101,
     "width": 155
   },
@@ -24,7 +24,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -42,7 +42,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gss.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
@@ -69,7 +69,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -87,7 +87,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gst.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
@@ -163,7 +163,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -181,7 +181,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsb.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
@@ -208,7 +208,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -226,7 +226,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsp.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
@@ -253,7 +253,7 @@
           "image": {
             "display": "cover",
             "shape": "square",
-            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",
+            "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
             "height": 101,
             "width": 155
           },
@@ -271,7 +271,7 @@
                       "image": {
                         "display": "contain",
                         "shape": "square",
-                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gol.png",
+                        "url": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
                         "height": 101,
                         "width": 155
                       },
