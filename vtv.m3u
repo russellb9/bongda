@@ -37,54 +37,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Siêu Son
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Siêu Gáy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Siêu Bệu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Siêu Péo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Siêu Tốc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Gà Ô Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Pro6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
-
 #EXTINF:0 tvg-id="tv360plus4" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus4.png",TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
