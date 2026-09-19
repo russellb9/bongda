@@ -63,58 +63,6 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
 #EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sk5.png",FPT Sự Kiện 5
 https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 
-#EXTINF:0 tvg-id="tv360plus4" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus4.png",TV360+4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
-https://vmttv.dpdns.org/tv360/?id=tv360-4
-
-#EXTINF:0 tvg-id="tv360plus5" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus5.png",TV360+5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
-https://vmttv.dpdns.org/tv360/?id=tv360-5
-
-#EXTINF:0 tvg-id="tv360plus7" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus7.png",TV360+7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
-https://vmttv.dpdns.org/tv360/?id=tv360-7
-
-#EXTINF:0 tvg-id="tv360plus8" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus8.png",TV360+8
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
-https://vmttv.dpdns.org/tv360/?id=tv360-8
-
-#EXTINF:0 tvg-id="tv360plus13" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus13.png",TV360+13
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
-https://vmttv.dpdns.org/tv360/?id=tv360-13
-
-#EXTINF:0 tvg-id="tv360plus14" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus14.png",TV360+14
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
-https://vmttv.dpdns.org/tv360/?id=tv360-14
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Khán Đài 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",Khán Đài 2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://khandai1.link/
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-
 #EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",CCTV Chuối Lá
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
@@ -186,6 +134,48 @@ https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
 #EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.jpg",SVC Johnny 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+
+#EXTINF:0 tvg-id="tv360plus4" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus4.png",TV360+4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
+https://vmttv.dpdns.org/tv360/?id=tv360-4
+
+#EXTINF:0 tvg-id="tv360plus5" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus5.png",TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
+https://vmttv.dpdns.org/tv360/?id=tv360-5
+
+#EXTINF:0 tvg-id="tv360plus7" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus7.png",TV360+7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072f0a0d4eda40cbb04dfadf521a2b9f:2fb11373b36e018573d3b07132df050e
+https://vmttv.dpdns.org/tv360/?id=tv360-7
+
+#EXTINF:0 tvg-id="tv360plus8" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus8.png",TV360+8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a08bd3a8c565cdfa4e01a0273915f40:d956d96ac3799d42441f582ec12f10df
+https://vmttv.dpdns.org/tv360/?id=tv360-8
+
+#EXTINF:0 tvg-id="tv360plus13" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus13.png",TV360+13
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"hW8pGvNaXbe30MlEsymTuQ","k":"qjVHVH8IT-TJ6lIG7_treA"}],"type":"temporary"}
+https://vmttv.dpdns.org/tv360/?id=tv360-13
+
+#EXTINF:0 tvg-id="tv360plus14" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/tv360plus14.png",TV360+14
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e57b008cedba5d12a192e66152bb61ca:a4b58d543b1c042f8b399f268040b623
+https://vmttv.dpdns.org/tv360/?id=tv360-14
 
 #EXTINF:0 tvg-id="vtv2hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv2.png",VTV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
