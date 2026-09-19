@@ -135,6 +135,12 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 2
 https://vips-livecdn.fptplay.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 3
+https://vips-livecdn.fptplay.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 5
+https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
+
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtvprime.webp",VTVPrime 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
