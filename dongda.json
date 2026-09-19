@@ -1,5 +1,5 @@
 {
-  "name": "GaVangTV",
+  "name": "Sport",
   "color": "#FF6B35",
   "org_metadata": {
     "image": "https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsg.png",
@@ -17,7 +17,7 @@
   "grid_number": 1,
   "groups": [
     {
-      "name": "GaVangTV",
+      "name": "Sport",
       "channels": [
 		  {
           "name": "Gà Siêu Son",
