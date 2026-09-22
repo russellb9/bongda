@@ -146,3 +146,15 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
+
+#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/nobitatgtt.jpg",Nobita và cuộc phiêu lưu vào thế giới trong tranh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8?type=/movie/index.m3u8
+
+#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/nobitalddb.webp",Nobita và lâu đài dưới đáy biển
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://rumble.com/hls-vod/7DR4aUQBNug/playlist.m3u8?type=/movie/index.m3u8
+
+#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/conantttsl.webp",Conan Movie 29: Thiên thần sa ngã trên sa lộ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://v7.kkphimplayer7.com/20260718/iH6o7Ll4/3500kb/hls/index.m3u8?type=/movie/index.m3u8
