@@ -49,7 +49,7 @@ https://vmttv.dpdns.org/tv360/?id=tv360-10
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-11
 
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/gsq.png",Gà Siêu Phệ
+#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport.png",Gà Siêu Phệ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live2.zktsva.app/live/304565.m3u8
 
@@ -162,7 +162,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PMGt1Drszj/jHJxqKluMIQ","kid":"PCAWZmCpOnWsd9uBVnOJ9w"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cn.smil/manifest.mpd
 
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/doraemon.jpg",Nobita và cuộc phiêu lưu vào thế giới trong tranh
+#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/doraemon.png",Nobita và cuộc phiêu lưu vào thế giới trong tranh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8?type=/movie/index.m3u8
 
