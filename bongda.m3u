@@ -60,10 +60,10 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 6
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 11
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 11
 https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 12
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 12
 https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Chuối Lá
@@ -161,27 +161,27 @@ https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.png",VTV1
+#EXTINF:0 tvg-id="vtv1hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv1.png",VTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 tvg-id="vtv3hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.png",VTV3
+#EXTINF:0 tvg-id="vtv3hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv3.png",VTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
-#EXTINF:0 tvg-id="vtv5hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.png",VTV5
+#EXTINF:0 tvg-id="vtv5hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv5.png",VTV5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 tvg-id="vtv6hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.png",VTV6
+#EXTINF:0 tvg-id="vtv6hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv6.png",VTV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 
-#EXTINF:0 tvg-id="vtv7hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv7.png",VTV7
+#EXTINF:0 tvg-id="vtv7hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv7.png",VTV7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
-#EXTINF:0 tvg-id="vtv9hd" group-title="Tivimate" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.png",VTV9
+#EXTINF:0 tvg-id="vtv9hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/vtv9.png",VTV9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 
