@@ -1,4 +1,99 @@
-#EXTM3U x-tvg-url="https://lichphatsong.io.vn/epg.xml"
+#EXTM3U
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Phệ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/306290.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Bệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/289650.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Siêu Tốc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/307240.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",Gà Ô Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://live2.zktsva.app/live/432017.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Chuối Lá
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Chuối Nhỏ
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Chuối Kem
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Ngao
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Chao
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Tây
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",CCTV Trốc Tru
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Johnny 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Hiệp Sĩ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
 
 #EXTINF:0 tvg-id="sctv15hd" group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sctv15.png",SCTV15
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -65,98 +160,3 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 12
 https://vips-livecdn.fptplay.net/live/media/su-kien-12/hls_avc_v6/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Chuối Lá
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Chuối Nhỏ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Chuối Kem
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Ngao
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Chao
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Tây
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport2.png",CCTV Trốc Tru
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Phệ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/304565.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Son
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/306290.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Gáy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/294335.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Bệu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/289650.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Péo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/303098.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Siêu Tốc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/307240.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport5.png",Gà Ô Long
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://live2.zktsva.app/live/432017.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Pro6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Johnny 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
-
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/sport6.png",SVC Hiệp Sĩ
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36
-https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
