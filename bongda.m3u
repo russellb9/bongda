@@ -130,8 +130,20 @@ https://vips-livecdn.fptplay.net/live/media/event-05/hls_avc_v6/index.m3u8
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 6
 https://vips-livecdn.fptplay.net/live/media/event-06/hls_avc_v6/index.m3u8
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 7
-https://vips-livecdn.fptplay.net/live/media/event-07/hls_avc_v6/index.m3u8
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 8
+https://vips-livecdn.fptplay.net/live/media/event-08/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 9
+https://vips-livecdn.fptplay.net/live/media/event-09/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 10
+https://vips-livecdn.fptplay.net/live/media/event-10/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 11
+https://vips-livecdn.fptplay.net/live/media/event-11/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Event 12
+https://vips-livecdn.fptplay.net/live/media/event-12/hls_avc_v6/index.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 1
 https://vips-livecdn.fptplay.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
@@ -150,6 +162,18 @@ https://vips-livecdn.fptplay.net/live/media/su-kien-05/hls_avc_v6/index.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 6
 https://vips-livecdn.fptplay.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 7
+https://vips-livecdn.fptplay.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 8
+https://vips-livecdn.fptplay.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 9
+https://vips-livecdn.fptplay.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 10
+https://vips-livecdn.fptplay.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
 
 #EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/fpt.png",FPT Sự Kiện 11
 https://vips-livecdn.fptplay.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
