@@ -16,7 +16,7 @@ https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=tv360-10
 
-#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/PremierLeague.png", Ngoại hạng Anh
+#EXTINF:0 group-title="Sport" tvg-logo="https://raw.githubusercontent.com/russellb9/bongda/refs/heads/main/img/PremierLeague.png", Ngoại Hạng Anh
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-referrer=https://phalang.live/
 https://pull1.digitalcdn.net/live/1074cc11c345493d91c2f19316b992e2/index.m3u8
